@@ -497,4 +497,4 @@ module.exports = __webpack_require__(/*! C:\xampp\htdocs\plateapp\node_modules\b
 /***/ })
 
 },[[3,"runtime"]]]);
-//# sourceMappingURL=styles-es2015.b69748244ceff8cab257.js.map
+//# sourceMappingURL=styles-es2015.js.map

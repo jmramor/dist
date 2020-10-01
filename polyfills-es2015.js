@@ -3039,4 +3039,4 @@ module.exports = __webpack_require__(/*! C:\xampp\htdocs\plateapp\src\polyfills.
 /***/ })
 
 },[[2,"runtime"]]]);
-//# sourceMappingURL=polyfills-es2015.ff0b0338c6a214ebc87b.js.map
+//# sourceMappingURL=polyfills-es2015.js.map

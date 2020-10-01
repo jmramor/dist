@@ -5625,4 +5625,4 @@ module.exports = __webpack_require__(/*! C:\xampp\htdocs\plateapp\src\main.ts */
 /***/ })
 
 },[[0,"runtime","vendor"]]]);
-//# sourceMappingURL=main-es2015.0049bc6d09cfe77f18ac.js.map
+//# sourceMappingURL=main-es2015.js.map

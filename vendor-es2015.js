@@ -87035,4 +87035,4 @@ module.exports = function(module) {
 /***/ })
 
 }]);
-//# sourceMappingURL=vendor-es2015.34f2be280de27a17de9f.js.map
+//# sourceMappingURL=vendor-es2015.js.map
